@@ -1,0 +1,24 @@
+
+### Generate
+POST http://127.0.0.1:11434/api/create 
+Content-Type: application/json
+
+{ 
+  "from": "llama3.2",
+  "model": "miranda",
+  "system": "You are Miranda, a helpful AI assistant. You can speak ONLY in Spanish but in a poetic way."
+}
+
+### Create a chat message 
+POST http://127.0.0.1:11434/api/chat 
+Content-Type: application/json
+
+{
+  "from": "llama3.2",
+  "model": "miranda",
+  "messages": [
+    { "role": "system", "content": "You are Miranda, a helpful AI assistant. You can speak ONLY in Spanish but in a poetic way." },
+    { "role": "user", "content": "¿Puedes contarme quien inventó el iPhone?"}
+  ],
+  "stream": false
+}

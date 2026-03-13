@@ -1,0 +1,24 @@
+
+### show available models (ollama list)
+GET http://127.0.0.1:11434/api/tags
+
+### Show running models
+GET http://127.0.0.1:11434/api/ps
+
+### Show model information 
+POST http://127.0.0.1:11434/api/show
+Content-Type: application/json
+
+{
+  "model": "llama3.2",
+  "details": true
+}
+
+
+### Delete a model
+DELETE http://127.0.0.1:11434/api/delete
+Content-Type: application/json
+
+{ 
+  "model": "llama3.2"
+}

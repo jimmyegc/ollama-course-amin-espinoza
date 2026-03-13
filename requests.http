@@ -1,0 +1,62 @@
+
+### Generate a response
+POST http://127.0.0.1:11434/api/generate
+Content-Type: application/json
+
+{
+  "model": "llama3.2",
+  "prompt": "Explain fibonacci with JavaScript"
+}
+
+### Generate a response without stream
+POST http://127.0.0.1:11434/api/generate
+Content-Type: application/json
+
+{
+  "model": "llama3.2",
+  "prompt": "Explain fibonacci with JavaScript",
+  "stream": false
+}
+
+### Generate a response in Spanish
+POST http://127.0.0.1:11434/api/generate
+Content-Type: application/json
+
+{
+  "model": "llama3.2",
+  "prompt": "Explica fibonacci con Javascript",
+  "stream": false
+}
+
+
+### Create a chat message
+POST http://127.0.0.1:11434/api/chat
+Content-Type: application/json
+
+{
+  "model": "llama3.2",
+  "messages" : [
+    { "role": "system", "content": "You are a helpful assistant."},
+    { "role": "user", "content": "can you tell me who is John Wick "}
+  ],
+  "stream": false
+}
+
+### Create a chat message
+POST http://127.0.0.1:11434/api/chat
+Content-Type: application/json
+
+{
+  "model": "llama3.2",
+  "messages" : [
+    { "role": "system", "content": "You are a helpful assistant."},
+    { "role": "user", "content": "¿Cuál es la capital de Francia?"},
+     { "role": "user", "content": "¿Cuáles son los monumentos más destacados?"}
+  ],
+  "stream": false
+}
+
+
+
+
+

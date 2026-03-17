@@ -1,0 +1,127 @@
+[
+  {
+    "instruction": "¿Qué es un delito según el Código Penal Federal?",
+    "context": "Definición general de delito en México.",
+    "response": "Un delito es una acción u omisión que sancionan las leyes penales. Debe ser típica, antijurídica y culpable para que pueda considerarse como tal."
+  },
+  {
+    "instruction": "¿Cuáles son los elementos del delito?",
+    "context": "Elementos jurídicos del delito.",
+    "response": "Los elementos del delito son: conducta (acción u omisión), tipicidad, antijuridicidad, culpabilidad y punibilidad."
+  },
+  {
+    "instruction": "¿Qué es la tentativa de delito?",
+    "context": "Concepto de tentativa.",
+    "response": "Existe tentativa cuando el sujeto inicia la ejecución de un delito, pero no lo consuma por causas ajenas a su voluntad."
+  },
+  {
+    "instruction": "¿Qué es la legítima defensa?",
+    "context": "Causas de exclusión del delito.",
+    "response": "La legítima defensa es una causa de exclusión de responsabilidad cuando se repele una agresión real, actual o inminente, sin derecho y en defensa de bienes jurídicos propios o ajenos."
+  },
+  {
+    "instruction": "¿Qué es el dolo?",
+    "context": "Tipos de culpabilidad.",
+    "response": "El dolo consiste en la intención de cometer un delito, con conocimiento de los elementos del tipo penal."
+  },
+  {
+    "instruction": "¿Qué es la culpa en materia penal?",
+    "context": "Culpabilidad sin intención.",
+    "response": "La culpa ocurre cuando el delito se comete sin intención, pero por imprudencia, negligencia o falta de cuidado."
+  },
+  {
+    "instruction": "¿Qué sanciones contempla el Código Penal Federal?",
+    "context": "Tipos de penas.",
+    "response": "Las sanciones incluyen prisión, multa, decomiso de bienes, suspensión de derechos, inhabilitación y otras medidas de seguridad."
+  },
+  {
+    "instruction": "¿Qué es el homicidio según el Código Penal Federal?",
+    "context": "Delitos contra la vida.",
+    "response": "El homicidio es la privación de la vida de una persona. Puede ser doloso o culposo dependiendo de la intención."
+  },
+  {
+    "instruction": "¿Qué es el feminicidio?",
+    "context": "Delitos de género.",
+    "response": "El feminicidio es la privación de la vida de una mujer por razones de género, bajo circunstancias específicas establecidas en la ley."
+  },
+  {
+    "instruction": "¿Qué es el robo según la ley mexicana?",
+    "context": "Delitos patrimoniales.",
+    "response": "El robo es el apoderamiento de una cosa ajena mueble sin derecho y sin consentimiento de la persona que puede disponer de ella."
+  },
+  {
+    "instruction": "¿Qué diferencia hay entre robo y fraude?",
+    "context": "Comparación de delitos.",
+    "response": "El robo implica apoderarse de un bien sin consentimiento, mientras que el fraude implica engañar a alguien para obtener un beneficio indebido."
+  },
+  {
+    "instruction": "¿Qué es el abuso de confianza?",
+    "context": "Delitos patrimoniales.",
+    "response": "Es el uso indebido o apropiación de un bien que se ha recibido legítimamente con la obligación de devolverlo."
+  },
+  {
+    "instruction": "¿Qué es la extorsión?",
+    "context": "Delitos contra la libertad.",
+    "response": "La extorsión consiste en obligar a alguien a dar, hacer o dejar de hacer algo mediante violencia o intimidación para obtener un lucro indebido."
+  },
+  {
+    "instruction": "¿Qué es el secuestro?",
+    "context": "Delitos graves.",
+    "response": "El secuestro es la privación ilegal de la libertad de una persona con fines como obtener rescate o causar daño."
+  },
+  {
+    "instruction": "¿Qué es la responsabilidad penal?",
+    "context": "Imputabilidad.",
+    "response": "Es la obligación de responder por la comisión de un delito cuando se cumplen los elementos legales y no existe causa de exclusión."
+  },
+  {
+    "instruction": "¿Qué es la reincidencia?",
+    "context": "Repetición del delito.",
+    "response": "La reincidencia ocurre cuando una persona comete un nuevo delito después de haber sido condenada previamente por otro."
+  },
+  {
+    "instruction": "¿Qué es la prescripción del delito?",
+    "context": "Extinción de la acción penal.",
+    "response": "La prescripción es la pérdida del derecho del Estado para perseguir o sancionar un delito debido al paso del tiempo."
+  },
+  {
+    "instruction": "¿Qué es el encubrimiento?",
+    "context": "Participación en delitos.",
+    "response": "El encubrimiento ocurre cuando alguien ayuda a ocultar un delito o a su autor sin haber participado directamente en él."
+  },
+  {
+    "instruction": "¿Qué es la complicidad?",
+    "context": "Participación delictiva.",
+    "response": "La complicidad consiste en ayudar o facilitar la comisión de un delito sin ser el autor principal."
+  },
+  {
+    "instruction": "¿Qué es la autoría en un delito?",
+    "context": "Sujetos del delito.",
+    "response": "La autoría corresponde a quien realiza directamente la conducta delictiva o tiene el control del hecho."
+  },
+  {
+    "instruction": "¿Qué es el delito continuado?",
+    "context": "Clasificación del delito.",
+    "response": "Es cuando varias conductas similares se realizan en diferentes momentos pero con la misma intención delictiva."
+  },
+  {
+    "instruction": "¿Qué es la tentativa inacabada?",
+    "context": "Tipos de tentativa.",
+    "response": "Es cuando el sujeto no completa todos los actos necesarios para consumar el delito por causas ajenas a su voluntad."
+  },
+  {
+    "instruction": "¿Qué es la tentativa acabada?",
+    "context": "Tipos de tentativa.",
+    "response": "Ocurre cuando el sujeto realiza todos los actos necesarios para cometer el delito, pero este no se consuma por causas externas."
+  },
+  {
+    "instruction": "¿Qué es la inimputabilidad?",
+    "context": "Capacidad penal.",
+    "response": "La inimputabilidad es la incapacidad de una persona para comprender la ilicitud de sus actos o conducirse conforme a esa comprensión."
+  },
+  {
+    "instruction": "¿Qué es la reparación del daño?",
+    "context": "Consecuencias del delito.",
+    "response": "Es la obligación de resarcir a la víctima por los daños y perjuicios ocasionados por el delito."
+  }
+]
